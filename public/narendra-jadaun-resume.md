@@ -3,7 +3,7 @@
 Noida, India | +91 7452942831 | jadaunnarendra12@gmail.com
 
 LinkedIn: https://linkedin.com/in/narendra-jadaun
-GitHub: https://github.com/narendrajadaun24-tech
+GitHub: https://github.com/Narendra-1000
 
 ## Summary
 

@@ -21,7 +21,7 @@ const contact = {
   email: 'jadaunnarendra12@gmail.com',
   location: 'Noida, India',
   linkedin: 'https://linkedin.com/in/narendra-jadaun',
-  github: 'https://github.com/narendrajadaun24-tech',
+  github: 'https://github.com/Narendra-1000',
 }
 
 const techStack = ['Python', 'FastAPI', 'Flask', 'Django', 'React', 'AWS', 'PostgreSQL', 'MongoDB', 'Redis']
